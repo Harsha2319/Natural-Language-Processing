@@ -3,7 +3,7 @@
 ## What the Code Does?
 Builds a bigram model based on the training data and performs Naïve Bayesian Classification (Bigram) based POS Tagging
 
-![Naïve Bayesian Classification (Bigram) based POS Tagging Equation](probabilistic_POS_Equation1.png)
+![Naïve Bayesian Classification (Bigram) based POS Tagging Equation](probabilistic_POS_Equation.png)
 
 ## How to run?
 ### Training - Builds the Bigram model
