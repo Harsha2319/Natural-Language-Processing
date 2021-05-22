@@ -76,7 +76,7 @@ def noSmoothing_Prob(count_bigrams, count_unigrams, total_count):
 
 
 # input - Unigram count & bigram count in the training set, total no of words i the training set, vocab
-# output -
+# output - Bigram & unigram Probability - Add One Smoothing
 def addone_prob(count_bigrams, count_unigrams, vocab, total_count):
     unigramsProb_addone = {}                # (C(w(n)) + 1) / (N + V)
     bigramsProb_addone = {}
