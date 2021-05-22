@@ -17,4 +17,4 @@ The program can be executed multiple times for testing once it is trained, But a
   * Outputs: Maximum probability of the test sentence and the sequence of tags that resulted in the max probability. (Each word in the input sequence will be paired to the corresponding word in the output tag sequence)
   * Example: python probabilistic.py "closed in October and the jobs moved ." 
 
-(NOTE: Test sentence must be included in double-quotes.
+(NOTE: Test sentence must be included in double-quotes.)
