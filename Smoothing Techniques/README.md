@@ -8,7 +8,7 @@ Builds a bigram model based on the training data and Computes probability of the
 
 ## How to run?
 ### Training - Builds the Bigram model
-If you run the code for the first time (ie. if the bigram models are not stores in the same folder as the program) with 1 arguments (Program file name) model will train on the training data and build the bigram model
+If you run the code for the first time (i.e., if the bigram models are not stores in the same folder as the program) with 1 argument (Program file name) model will train on the training data and build the bigram mode
 
 Example : python smoothing.py
 
